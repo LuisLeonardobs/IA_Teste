@@ -86,15 +86,14 @@ Sinta-se à vontade para estudar, modificar e contribuir! 😊
 
 <td>
   <div align= "center">
-    <img alt="Luis Leonardo" height="150" src="https://avatars.githubusercontent.com/u/92697749?v=4"> 
+    <img alt="Luis Leonardo" height="150" src="https://media.licdn.com/dms/image/v2/D4E03AQF7ifNhsqwXuw/profile-displayphoto-shrink_200_200/B4EZXTHLsGGYAY-/0/1743003631354?e=1750291200&v=beta&t=31LBcGUx8J9LlxbY9aSohPBcnjFq65cjolnkeQUaXws"> 
   </div>
   <h3 align="center"><a href="https://github.com/LuisLeonardobs">Luis Leonardo Barbosa e Silva</a></h3>
   <h4 align="center">Projeto - Teste IA></h4>
   <div align="center">
     <a href = "mailto:luisleonardobs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-     <a href="https://www.linkedin.com/in/luis-leonardo-barbosa-e-silva-7099ab203/" target="_blank"><img src="https://media.licdn.com/dms/image/v2/D4E03AQF7ifNhsqwXuw/profile-displayphoto-shrink_200_200/B4EZXTHLsGGYAY-/0/1743003631354?e=1750291200&v=beta&t=31LBcGUx8J9LlxbY9aSohPBcnjFq65cjolnkeQUaXws"></a>
+     <a href="https://www.linkedin.com/in/luis-leonardo-barbosa-e-silva-7099ab203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   </div>
 </td>
-
 </div>
