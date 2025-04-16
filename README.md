@@ -44,3 +44,44 @@ Decidi começar por esse projeto porque ele une duas áreas que quero dominar: <
 
 <div align="center">
 
+| Ferramenta         | Descrição                                  |
+|--------------------|----------------------------------------------|
+| 🐍 Python          | Linguagem principal do projeto               |
+| 🧠 ChatGPT         | Assistência em ideias, estrutura e código    |
+| 🖥️ VS Code        | Editor de código                             |
+| 📚 Tkinter         | Criação da interface gráfica (GUI)           |
+| 📄 PyMuPDF / DOCX  | Leitura de documentos PDF e DOCX             |
+| 🌐 BeautifulSoup   | Processamento de conteúdo web                |
+| 🧩 Ollama          | Execução local de modelos de IA              |
+
+</div>
+
+---
+
+## 🚀 Implementações Futuras
+
+- [ ] Suporte a novos formatos (HTML, EPUB, Markdown)
+- [ ] Sistema de avaliação de respostas da IA
+- [ ] Escolha entre diferentes modelos de IA
+- [ ] Versão web usando Flask ou FastAPI
+- [ ] Integração com banco de dados (SQLite, MongoDB)
+
+---
+
+## 📄 Licença
+
+<div align="center">
+
+Este projeto é open-source, licenciado sob a licença *MIT*.  
+Sinta-se à vontade para estudar, modificar e contribuir! 😊
+
+</div>
+
+---
+
+<div align="center">
+
+Desenvolvido com ❤️ por um estudante de Análise e Desenvolvimento de Sistemas, com o apoio do ChatGPT (presente de um namorado que acredita no seu futuro ✨).  
+Este é apenas o começo de uma longa jornada! 🚀
+
+</div>
